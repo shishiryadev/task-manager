@@ -30,7 +30,7 @@ A modern, interactive task management web application built with Django, featuri
 
 **1\. Clone the Repository**
 
-git clone <https://github.com/yourusername/task-manager.git>
+git clone <https://github.com/shishiryadav123/task-manager.git>
 
 cd task-manager
 
