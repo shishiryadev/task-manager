@@ -229,7 +229,7 @@ python manage.py collectstatic
 
 **📱 Screenshots**
 
-![Add task!](task-manager-2.png) ![Load data via AJAX](task-manager-1.png)
+ ![Add Task!](task-manager-1.png) ![Load data via AJAX](task-manager-2.png)
 
 
 
