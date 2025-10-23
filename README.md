@@ -70,11 +70,11 @@ Visit <http://127.0.0.1:8000> to see your app in action! 🎉
 
 myproject/
 
-├── manage.py # Django management script
-├── db.sqlite3 # SQLite database
-├── myproject/ # Main project directory
-│ ├── \__init_\_.py
-│ ├── settings.py # Django settings
+├── manage.py # Django management script  
+├── db.sqlite3 # SQLite database  
+├── myproject/ # Main project directory  
+│ ├── \__init_\_.py  
+│ ├── settings.py # Django settings  
 │ ├── urls.py # Main URL configuration
 │ ├── wsgi.py # WSGI application
 │ └── asgi.py # ASGI application
