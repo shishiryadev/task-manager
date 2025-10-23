@@ -38,7 +38,7 @@ cd task-manager
 
 \# Windows
 
-python -m venv venv
+python -m venv
 
 venv\\Scripts\\activate
 
